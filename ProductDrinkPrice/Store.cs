@@ -13,7 +13,8 @@
         {
             Array.Resize(ref _products, _products.Length + 1);
             _products[_products.Length - 1] = product;
-            Console.WriteLine(_products.Length);
+            Console.WriteLine("Touch grass");
+
 
 
         }
